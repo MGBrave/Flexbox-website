@@ -1,6 +1,7 @@
 # Flexbox Landing Page
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.dio.me/sign-in" target="_blank"> <img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="40" /> </a>
 <br>
 
 
